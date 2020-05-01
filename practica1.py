@@ -1,4 +1,4 @@
-nombre = raw_input("¿Como te llamas? ")
+nombre = raw_input("Â¿Como te llamas? ")
 print "Tu nombre es: %s" %(nombre)
 
 edad = raw_input("Cual es tu edad?")
